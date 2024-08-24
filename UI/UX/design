@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Newstodayindia</title>
+    <link rel="stylesheet" href="Rachel.css">
+</head>
+<body>
+    <header>
+        <h1>NEWSTODAYINDIA</h1>
+        <p>"Innovative Design, Inspiring Stories, and Cutting-Edge Visuals"</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#section1">Section 1</a></li>
+            <li><a href="#section2">Section 2</a></li>
+            <li><a href="#section3">Section 3</a></li>
+    </ul>
+    </nav>
+
+    <main>
+        <section id="section1">
+            <h2>Social Enterprise on character</h2>
+            <img src="C:\Users\DELL\Desktop\Rachel\Screenshot-2020-11-10-at-9.58.34-AM-1024x749.png" >
+            <p>Transforming Lives Through Education
+                At BrightFuture Learning Initiative, we believe that education is the key to unlocking a brighter future. Our mission is to provide quality education to underserved communities, empowering individuals with the knowledge and skills they need to succeed.</p>
+        </section>
+
+        <section id="section2">
+            <h2>Covid Pandemic : Mental Healths</h2>
+            <img src="C:\Users\DELL\Desktop\Rachel\Ej9CsedVcAYfZkE.jfif"
+            <p>Mental Health Support During the COVID-19 Pandemic
+                The COVID-19 pandemic has significantly impacted mental health, causing increased anxiety, loneliness, and stress due to social isolation, fear of the virus, economic challenges, and grief. To cope with these challenges, it's important to:
+                Stay Connected: Use technology to keep in touch with family and friends to reduce feelings of isolation.
+                Establish a Routine: Maintain a daily schedule to bring structure and reduce stress.
+                Practice Mindfulness: Engage in mindfulness, meditation, or relaxation exercises to calm the mind.
+                Limit Media Consumption: Reduce exposure to news and social media to avoid overwhelming anxiety.
+                Seek Professional Help: Access virtual counseling if feelings of anxiety or depression become unmanageable.
+                Engage in Healthy Activities: Find joy in hobbies, exercise, and activities that bring relaxation.
+                These strategies can help manage mental health and provide the support needed during these challenging times.</p>
+        </section>
+
+        <section id="section3">
+            <h2>Advertisements</h2>
+            <div class="ad">
+                <img src="C:\Users\DELL\Desktop\Rachel\pngtree-red-minimalist-car-advertising-promotion-poster-image_453832.jpg">
+                <p>" Experience the perfect blend of style, innovation, and performance with Renault's cutting-edge automotive solutions."</p>
+            </div>
+            <div class="ad">
+                <img src="C:\Users\DELL\Desktop\Rachel\b12680e6ed9d608a79046fcea940bc64.jpg" >
+                <p>"Drive the ultimate blend of luxury, performance, and innovation with BMW's exceptional vehicles."</p>
+            </div>
+        </section>
+    </main>
+
+    
+</body>
+</html>
+
+
+
+            
+
+
+                  
