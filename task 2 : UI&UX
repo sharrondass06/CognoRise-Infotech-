@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INFOGRACPHICS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .infographic {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .infographic h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .infographic h2 {
+            color: #0e0201;
+            text-align: left;
+        }
+        .infographic p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        .infographic img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+        .data-section {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+        .data-section .data-point {
+            text-align: center;
+            flex: 1;
+            margin: 0 10px;
+        }
+        .data-section .data-point p {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #3498db;
+        }
+    </style>
+</head>
+<body>
+
+<div class="infographic">
+    <h1>Infographics: A Visual Storytelling Tool</h1>
+
+    <p>Infographics utilize images, data visualizations, typography, and statistical graphics to convey a concise narrative or share information.</p>
+
+    <div class="data-section">
+        <div class="data-point">
+            <img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2021/02/Data-Visualization-Infographic.png" alt="Data Visualization">
+            <p>Data Visualization</p>
+        </div>
+        <div class="data-point">
+            <img src="https://img.freepik.com/free-vector/flat-design-infographic-elements-with-retro-colors_23-2148409251.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721606400&semt=ais_user.png" alt="Typography">
+            <p>Typography</p>
+        </div>
+        <div class="data-point">
+            <img src="https://img.freepik.com/free-vector/set-elements-chart-infographics-graphs-diagrams-chart-color_90220-326.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721779200&semt=sph.png" alt="Images">
+            <p>Images</p>
+        </div>
+    </div>
+
+    <h2>Tools for Creating Infographics</h2>
+    <p>Engaging in an infographic project provides hands-on familiarity with essential tools like <strong>Canva</strong> and <strong>Venngage</strong>, offering an opportunity to harness creativity in presenting data in visually captivating, impactful, and efficient ways.</p>
+    
+    <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2018/12/infographic-templates_1200x630-840x430.png" alt="Infographic Tools">
+
+    <h2>Why Use Infographics?</h2>
+    <p>Infographics are powerful tools because they make complex information easily digestible. They attract and hold the audience's attention, making the communication of data more effective.</p>
+</div>
+
+</body>
+</html>
