@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Card</title>
+    <link rel="stylesheet" href="task 3 css code.css">
+</head>
+<body>
+    <div class="business-card">
+        <div class="logo">
+            <img src="C:\Users\DELL\Downloads\RACHEL TASK 3.png"
+        </div>
+        <div class="card-content">
+            <h1>𝓻𝓪𝓬𝓱𝓮𝓵 𝓼𝓱𝓪𝓻𝓻𝓸𝓷 𝓭𝓪𝓼𝓼</h1>
+            <h2>UX & UI Intern</h2>
+            <p> CognoRise InfoTech</p>
+            <p>Email: dass.doe@starprotect.com</p>
+            <p>Phone: +91-8838179206</p>
+        </div>
+    </div>
+</body>
+</html>
